@@ -18,11 +18,12 @@ width: 100px;
 
 }
 .logo{
-    background-image:url("/images/amazon_logo.png") ;
-    background-size:cover ;
+    background-image:url("images/logo2.jpg");
+   background-size:cover ;
     height: 50px;
     width: 100%;
     cursor: pointer;
+    
 }
 .border{
     border: 2px solid transparent;
